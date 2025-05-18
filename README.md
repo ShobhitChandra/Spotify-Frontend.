@@ -22,17 +22,3 @@ Welcome to **Sportify** – a frontend-only clone of the popular music streaming
 - **JavaScript** 
 
 ---
-
-## 📁 Folder Structure
-
-```plaintext
-sportify-frontend/
-├── public/
-│   └── assets/          # Images, logos, icons
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── pages/           # Main pages (Home, Search, Library)
-│   ├── styles/          # CSS or SCSS files
-│   └── App.js           # Entry point
-├── index.html
-└── README.md
