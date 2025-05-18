@@ -22,3 +22,8 @@ Welcome to **Sportify** – a frontend-only clone of the popular music streaming
 - **JavaScript** 
 
 ---
+**Future plan**
+
+- The plan is to make this project fully functional.
+- Adding Node.js and React and Database to it.
+---
